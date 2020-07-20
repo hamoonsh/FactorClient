@@ -61,14 +61,14 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 25);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(462, 554);
+            this.tabPage1.Size = new System.Drawing.Size(715, 554);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Add";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
             // btnAdd
             // 
-            this.btnAdd.Location = new System.Drawing.Point(155, 144);
+            this.btnAdd.Location = new System.Drawing.Point(279, 235);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(137, 74);
             this.btnAdd.TabIndex = 0;
